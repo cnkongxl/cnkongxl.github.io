@@ -88,6 +88,7 @@ url:
 Set true to show reading time for posts. And set `words_per_minute`, default is 200.
 
 #### logo
+
 Your site's logo. It will show on homepage and navigation menu. Also used for twitter meta tags.
 
 #### background

@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://kongxl.cn"
 
 gem "jekyll", "~> 3.2.1"
 gem "jekyll-sitemap"
